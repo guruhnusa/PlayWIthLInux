@@ -3,8 +3,7 @@
 <!-- /TOC -->
 [Perintah Dasar Linux](#Perintah-Dasar-Linux)
 
-[Tipe FIle System](#Tipe_File_System)
-
+COMING SOON
 <!-- /TOC -->
 
 ## Perintah Dasar Linux 
