@@ -186,7 +186,7 @@ Menyimpan informasi proses, seperti system `history`,` access logs`, dan `error 
 
 Agar lebih mudah memahami lihat gambar.
 
-![Gambar Hierarki](Gambar/linux-filesystem.png)
+![Gambar Hierarki](https://github.com/guruhnusa/PlayWIthLInux/blob/main/linux-filesystem.png)
 
 ### Tipe FileSystem
 Jenis- jenis filesystem di linux
