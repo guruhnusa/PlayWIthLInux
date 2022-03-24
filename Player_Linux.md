@@ -1,7 +1,7 @@
 
 
 <!-- /TOC -->
-[Perintah Dasar Linux](#Perintah Dasar Linux)
+[Perintah Dasar Linux](#Perintah-Dasar-Linux)
 <!-- /TOC -->
 
 ## Perintah Dasar Linux 
