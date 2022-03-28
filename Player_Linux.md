@@ -1,3 +1,5 @@
+##Table Of Contents
+
 <!-- /TOC -->
 - [Perintah Dasar Linux](#Perintah-Dasar-Linux)
 - [Mengenal User Interface Terminal](#Mengenal-User-Interface-Terminal)
