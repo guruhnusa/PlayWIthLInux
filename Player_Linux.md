@@ -1,11 +1,50 @@
-
-
 <!-- /TOC -->
-[Perintah Dasar Linux](#Perintah-Dasar-Linux)
-[Mengenal User Interface Terminal](#Mengenal-User-Interface-Terminal)
-  - Absolute Paths dan Relative Paths
- 
-COMING SOON
+- [Perintah Dasar Linux](#Perintah-Dasar-Linux)
+- [Mengenal User Interface Terminal](#Mengenal-User-Interface-Terminal)
+    - [Prompt](#Prompt)
+    - [Absolute Paths dan Relative Paths](#Absoluter-Paths-dan-relative-paths)
+    - [Format Penulisan Perintah Dasar](#Format-Penulisan-Perintah-Dasar)
+    - [Membatalkan Perintah](#Membatalkan-Perintah)
+- [File System di Linux](#File-System-di-Linux)
+    - [Pengertian](#Pengertian)
+    - [File system Hierarki Standard](#File-system-Hierarki-Standard)
+- [Tipe Filesystem](#Tipe-filesystem)
+- [Aturan Pernamaan File](#Aturan-Pernamaan-File)
+- [Fitur-Fitur yang Bisa Diandalkan](#Fitur-Fitur-yang-Bisa-Diandalakan)
+    - [Man](#Man)
+    - [Info](#Info)
+    - [Whatis](#Whatis)
+    - [Apropos](#Apropos)
+    - [--help](#--help)
+- [Error](#Error)
+    - [Command Not Found](#Command-Not-Found)
+    - [Invalid Option](#Invalid-Option)
+    - [No Such File Or Dictionary](#No-Such-File-Or-Dictionary)
+    - [Missing Operan](#Missing-Operan)
+- [Play With Command Linux](#Play-With-Command-linux)
+    - [Perintah yang berhubungan dengan direktory
+](#Perintah-yang-berhubungan-dengan-direktory
+)
+        - [ls](#ls)
+        - [dir](#dir)
+        - [pwd](#pwd)
+        - [mkdir](#mkdir)
+        - [cd](#cd)
+    - [Perintah Dasar yang Berhubungan dengan Manajemen File](#)
+    - [Perintah-Dasar-yang-Berhubungan-dengan-Manajemen-File](#)
+        - [touch](#Touch)
+        - [cat](#cat)
+        - [more](#more)
+        - [less](#less)
+        - [cp](#cp)
+        - [mv](#mv)
+        - [rm](#rm)
+        - [find](#find)
+        - [which](#which)
+        - [whereis](#whereis)
+        - [tar](#tar)
+        - [unzip](#unzip)
+        - 
 <!-- /TOC -->
 
 ## Perintah Dasar Linux 
