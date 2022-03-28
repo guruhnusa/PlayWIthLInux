@@ -2,7 +2,9 @@
 
 <!-- /TOC -->
 [Perintah Dasar Linux](#Perintah-Dasar-Linux)
-
+[Mengenal User Interface Terminal](#Mengenal-User-Interface-Terminal)
+  - Absolute Paths dan Relative Paths
+ 
 COMING SOON
 <!-- /TOC -->
 
