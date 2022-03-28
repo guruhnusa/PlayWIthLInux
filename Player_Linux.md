@@ -22,16 +22,13 @@
     - [No Such File Or Dictionary](#No-Such-File-Or-Dictionary)
     - [Missing Operan](#Missing-Operan)
 - [Play With Command Linux](#Play-With-Command-linux)
-    - [Perintah yang berhubungan dengan direktory
-](#Perintah-yang-berhubungan-dengan-direktory
-)
+    - [Perintah yang Berhubungan dengan Direktory](#Perintah-yang-berhubungan-dengan-direktory)
         - [ls](#ls)
         - [dir](#dir)
         - [pwd](#pwd)
         - [mkdir](#mkdir)
         - [cd](#cd)
-    - [Perintah Dasar yang Berhubungan dengan Manajemen File](#)
-    - [Perintah-Dasar-yang-Berhubungan-dengan-Manajemen-File](#)
+    - [Perintah Dasar yang Berhubungan dengan Manajemen File](#Perintah-Dasar-yang-Berhubungan-dengan-Manajemen-File)
         - [touch](#Touch)
         - [cat](#cat)
         - [more](#more)
